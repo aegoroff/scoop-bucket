@@ -1,0 +1,22 @@
+{
+    "version": "0.10.18",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/aegoroff/dirstat/releases/download/v0.10.18/dirstat_0.10.18_windows_386.tar.gz",
+            "bin": [
+                "dirstat.exe"
+            ],
+            "hash": "5c1729c12cf0714329997da8f69f2fcf32fda1954c8b2c0197ae66b2d62fd2fc"
+        },
+        "64bit": {
+            "url": "https://github.com/aegoroff/dirstat/releases/download/v0.10.18/dirstat_0.10.18_windows_amd64.tar.gz",
+            "bin": [
+                "dirstat.exe"
+            ],
+            "hash": "324fa5c0585c65d8fe320abb8565b5f7a5b60528672ef62a1fa08926b4061725"
+        }
+    },
+    "homepage": "https://github.com/aegoroff/dirstat",
+    "license": "Apache-2.0",
+    "description": "Small tool that shows selected folder or drive (on Windows) usage statistic"
+}
