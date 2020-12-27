@@ -1,0 +1,22 @@
+{
+    "version": "0.11.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/aegoroff/solt/releases/download/v0.11.4/solt_0.11.4_windows_386.tar.gz",
+            "bin": [
+                "solt.exe"
+            ],
+            "hash": "52672f0cdaa06a3eea020651005725906120943e5a5c52249a06917226ce73e8"
+        },
+        "64bit": {
+            "url": "https://github.com/aegoroff/solt/releases/download/v0.11.4/solt_0.11.4_windows_amd64.tar.gz",
+            "bin": [
+                "solt.exe"
+            ],
+            "hash": "3d08461db202561295efa7e3b197e5f2f2042d274c179e90bd713eb9f0f20216"
+        }
+    },
+    "homepage": "https://github.com/aegoroff/solt",
+    "license": "MIT",
+    "description": "Small console app written in Go that allows you to easily analyze sources and Microsoft Visual Studio solutions and projects"
+}
