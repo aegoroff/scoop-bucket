@@ -1,0 +1,22 @@
+{
+    "version": "0.2.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/aegoroff/fg/releases/download/v0.2.3/fg_0.2.3_windows_386.tar.gz",
+            "bin": [
+                "fgr.exe"
+            ],
+            "hash": "078bc5884ebd90860724ca4db59af485783b7ebc8e3ba42df845427141372cef"
+        },
+        "64bit": {
+            "url": "https://github.com/aegoroff/fg/releases/download/v0.2.3/fg_0.2.3_windows_amd64.tar.gz",
+            "bin": [
+                "fgr.exe"
+            ],
+            "hash": "552fda7658a19a43f630d86134246a6d731d42649a1d3fd8376f3c5cc15658d3"
+        }
+    },
+    "homepage": "https://github.com/aegoroff/fg",
+    "license": "Apache-2.0",
+    "description": "Small console app written in Go that allows you to easily group all files in the dir specified into several child directories."
+}
