@@ -1,19 +1,19 @@
 {
-    "version": "0.14.0",
+    "version": "0.14.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aegoroff/solt/releases/download/v0.14.0/solt_0.14.0_windows_386.tar.gz",
+            "url": "https://github.com/aegoroff/solt/releases/download/v0.14.1/solt_0.14.1_windows_386.tar.gz",
             "bin": [
                 "solt.exe"
             ],
-            "hash": "407c7e85db4e23865afe0120f24c79a3d4bb8d2a07663a477fec0525abdc1f52"
+            "hash": "7ab2c904494a88f1bb6346e5b2a4c6d85116cfaef554abd0984c0ea083989827"
         },
         "64bit": {
-            "url": "https://github.com/aegoroff/solt/releases/download/v0.14.0/solt_0.14.0_windows_amd64.tar.gz",
+            "url": "https://github.com/aegoroff/solt/releases/download/v0.14.1/solt_0.14.1_windows_amd64.tar.gz",
             "bin": [
                 "solt.exe"
             ],
-            "hash": "f13fc46b97e98f8e36ada84a7b5fd7790ca5b62746dc6215f1f032cbbad0e49e"
+            "hash": "df958aea643cff4d5af378b9fd2ce857121fa678a69de69a7e777d9076c10c95"
         }
     },
     "homepage": "https://github.com/aegoroff/solt",
