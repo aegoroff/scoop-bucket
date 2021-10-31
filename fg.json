@@ -1,19 +1,19 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aegoroff/fg/releases/download/v0.2.5/fg_0.2.5_windows_386.tar.gz",
+            "url": "https://github.com/aegoroff/fg/releases/download/v0.2.6/fg_0.2.6_windows_386.tar.gz",
             "bin": [
                 "fgr.exe"
             ],
-            "hash": "fefb9c3d6010db8f864735c33dec86736642e2530f9d7be84d4171ec1a285642"
+            "hash": "a55a4b44a14238244d042c82506cda8bccd6fefb8b7ca9ffe6333e0cdf5284b6"
         },
         "64bit": {
-            "url": "https://github.com/aegoroff/fg/releases/download/v0.2.5/fg_0.2.5_windows_amd64.tar.gz",
+            "url": "https://github.com/aegoroff/fg/releases/download/v0.2.6/fg_0.2.6_windows_amd64.tar.gz",
             "bin": [
                 "fgr.exe"
             ],
-            "hash": "5f21d14f1dc4121a0af427b62806094c76a63d9736ecc35a47ec4f7618cfef2b"
+            "hash": "2a992f8319f9c04e1be981b71603303c7800bd0ffb4c0cd2bdcdd54e6bc57824"
         }
     },
     "homepage": "https://github.com/aegoroff/fg",
