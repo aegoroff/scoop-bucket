@@ -1,12 +1,12 @@
 {
   "description": "Hash Calculator is the console tool that can calculate about 50 cryptographic hashes of strings and files.",
   "64bit": "https://github.com/aegoroff/hc",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "license": "LGPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/aegoroff/hc/releases/download/5.1.0/hc-5.1.0-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "8760cae55c0abf618c48e287c4d2bc9adcd19b74596f700241f6c95fd8e0e66c",
+      "url": "https://github.com/aegoroff/hc/releases/download/5.1.1/hc-5.1.1-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "3e36ef3c034048b9665e380e4245c4d9f23c2bfdff4075b45dc333433afb0bb0",
       "bin": [
         "hc.exe"
       ]
