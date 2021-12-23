@@ -1,12 +1,12 @@
 {
   "description": "Microsoft Visual Studio solution validator",
   "64bit": "https://github.com/aegoroff/solv",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/aegoroff/solv/releases/download/v0.5.1/solv-v0.5.1-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "381f7c31bc57edcc029f6b5d06b118b85d0214bcd886fe71877a9ade9808f40c",
+      "url": "https://github.com/aegoroff/solv/releases/download/v0.5.2/solv-v0.5.2-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "6cdbebcc0a9a2436837204deffffd8e6b4437329f2b00652f6add3f285556be8",
       "bin": [
         "solv.exe"
       ]
