@@ -5,8 +5,8 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/aegoroff/solv/releases/download/v0.5.2/solv-v0.5.2-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "6cdbebcc0a9a2436837204deffffd8e6b4437329f2b00652f6add3f285556be8",
+      "url": "https://github.com/aegoroff/solv/releases/download/v0.5.3/solv-v0.5.3-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "e579b881006109af44dedf6a82a0f02fa22b9116868309eaeae8b4bcb7506b01",
       "bin": [
         "solv.exe"
       ]
