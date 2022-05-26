@@ -1,6 +1,6 @@
 {
   "description": "Plain tool to validate and compare .editorconfig files",
-  "64bit": "https://github.com/aegoroff/editorconfiger",
+  "homepage": "https://github.com/aegoroff/editorconfiger",
   "version": "0.2.5",
   "license": "MIT",
   "architecture": {
