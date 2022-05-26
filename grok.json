@@ -1,6 +1,6 @@
 {
   "description": "Regular expressions macro engine. GROK is a tool like UNIX grep on steroids",
-  "64bit": "https://github.com/aegoroff/grok",
+  "homepage": "https://github.com/aegoroff/grok",
   "version": "0.2.10",
   "license": "MIT",
   "architecture": {
