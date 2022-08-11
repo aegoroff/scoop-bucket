@@ -5,8 +5,8 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/aegoroff/editorconfiger/releases/download/v0.2.7/editorconfiger-v0.2.7-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "aa1ba9646780bd4b56a37ae0df306780172c63d2a060f673e9f276b1476b424a",
+      "url": "https://github.com/aegoroff/editorconfiger/releases/download/0.2.7/editorconfiger-0.2.7-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "b543989b2d345cc2531f59f1a561530e0ea62e6d8cc610c9b16666e77b9332db",
       "bin": [
         "editorconfiger.exe"
       ]
