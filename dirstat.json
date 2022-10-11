@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aegoroff/dirstat/releases/download/v1.2.1/dirstat_1.2.1_windows_386.tar.gz",
+            "url": "https://github.com/aegoroff/dirstat/releases/download/v1.2.2/dirstat_1.2.2_windows_386.tar.gz",
             "bin": [
                 "dirstat.exe"
             ],
-            "hash": "bbc6b643c707717dc78717dad1139c7b7c8521c31fa319aff059ceb192a8db76"
+            "hash": "2cbbc1d2d974b163b9041948be277b41616e66e84aa9d8c6703070ec6b3ed90e"
         },
         "64bit": {
-            "url": "https://github.com/aegoroff/dirstat/releases/download/v1.2.1/dirstat_1.2.1_windows_amd64.tar.gz",
+            "url": "https://github.com/aegoroff/dirstat/releases/download/v1.2.2/dirstat_1.2.2_windows_amd64.tar.gz",
             "bin": [
                 "dirstat.exe"
             ],
-            "hash": "5d30d3b2ac1637972258d5967ca9de59679761de399e9dca402fe788e242fec7"
+            "hash": "807f2a8e8b28f34e3155d427bb94faabaa7a49d030a7553b9c3df9628ee730a9"
         }
     },
     "homepage": "https://github.com/aegoroff/dirstat",
