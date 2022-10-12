@@ -1,19 +1,19 @@
 {
-    "version": "1.2.7",
+    "version": "1.2.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aegoroff/copyto/releases/download/v1.2.7/copyto_1.2.7_windows_386.tar.gz",
+            "url": "https://github.com/aegoroff/copyto/releases/download/v1.2.8/copyto_1.2.8_windows_386.tar.gz",
             "bin": [
                 "copyto.exe"
             ],
-            "hash": "f01af49fe9f4419f41959afeb8397489caa3e8d7f73105ea70c6920545c9a94d"
+            "hash": "6356c0eb963ef5c647a2554a5c5ff9d611274aa9496e2cf4fb499d6240b84fe7"
         },
         "64bit": {
-            "url": "https://github.com/aegoroff/copyto/releases/download/v1.2.7/copyto_1.2.7_windows_amd64.tar.gz",
+            "url": "https://github.com/aegoroff/copyto/releases/download/v1.2.8/copyto_1.2.8_windows_amd64.tar.gz",
             "bin": [
                 "copyto.exe"
             ],
-            "hash": "594d5e101db700c6b8bdb67945a02b1c4dc023662f5c0e3d36fa61812a1ca056"
+            "hash": "a4435e807518c6fa807c9fb1e63df914cf83ff0635c0c66e7e175da4b3a5c329"
         }
     },
     "homepage": "https://github.com/aegoroff/copyto",
