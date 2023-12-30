@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/aegoroff/grok/releases/download/0.2.23/grok-0.2.23-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "f62194f7fa158b94414c1239f7f5daace1b045bd17fc2dc4b10e619308720df1",
+      "hash": "ee86798cf4e965c3161eec33946c16f16ace6dd4b7f07dd3a59eaddb141458a4",
       "bin": [
         "grok.exe"
       ]
