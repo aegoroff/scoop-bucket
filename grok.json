@@ -1,12 +1,12 @@
 {
   "description": "Regular expressions macro engine. GROK is a tool like UNIX grep on steroids",
   "homepage": "https://github.com/aegoroff/grok",
-  "version": "0.2.22",
+  "version": "0.2.23",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/aegoroff/grok/releases/download/0.2.22/grok-0.2.22-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "35092f9ec1f05c9c870baa2dc5035fda802679f2d2051cca3b57b7553a571da9",
+      "url": "https://github.com/aegoroff/grok/releases/download/0.2.23/grok-0.2.23-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "f62194f7fa158b94414c1239f7f5daace1b045bd17fc2dc4b10e619308720df1",
       "bin": [
         "grok.exe"
       ]
