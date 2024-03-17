@@ -1,12 +1,12 @@
 {
   "description": "Plain tool to validate and compare .editorconfig files",
   "homepage": "https://github.com/aegoroff/editorconfiger",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/aegoroff/editorconfiger/releases/download/0.4.4/editorconfiger-0.4.4-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "bd1a6f68ec9e285368ab2f6a68387c5227f0f17c916ef365cc70423e5bed0073",
+      "url": "https://github.com/aegoroff/editorconfiger/releases/download/0.4.5/editorconfiger-0.4.5-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "98b04c226ec306edde5e56177ccad6cf0e54eba3fec6aaf7cc2088dd05e1eca6",
       "bin": [
         "editorconfiger.exe"
       ]
