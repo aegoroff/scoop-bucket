@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/aegoroff/grok/releases/download/0.3.5/grok-0.3.5-x86_64-windows-gnu.tar.gz",
-      "hash": "075a2fb68d192e35724133778d01409363a05505d554ab16e597e4305e633b67",
+      "hash": "27f5c4e11e30540f4c62d3a98bb3fec9cca770e8e395f92004425a5867fc496a",
       "bin": [
         "grok.exe"
       ]
