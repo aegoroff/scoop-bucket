@@ -6,14 +6,14 @@
             "bin": [
                 "dirstat.exe"
             ],
-            "hash": "96ad64361314a6f6e20136595238c781127057a6ea5924f40543848661e2ea20"
+            "hash": "bc05fbb6d50c3f0f8bff99bf771251e5e2757f2398bc2528fe04d7ee4fc1499e"
         },
         "64bit": {
             "url": "https://github.com/aegoroff/dirstat/releases/download/v1.3.4/dirstat_1.3.4_windows_amd64.tar.gz",
             "bin": [
                 "dirstat.exe"
             ],
-            "hash": "0d4075ed1ac3ebdeeefe00aaa1d03ed0f803e6d767fb89271e6ea94dd713531d"
+            "hash": "9d3b9f8d1e35168e9b768ac43cab0d4509e8d66aa2ba105f385d73b5f2616e26"
         }
     },
     "homepage": "https://github.com/aegoroff/dirstat",
